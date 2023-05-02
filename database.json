@@ -1,0 +1,16 @@
+{
+	"dev": {
+		"driver": "pg",
+		"host": "localhost",
+		"database": "order_management",
+		"user": "manager",
+		"password": "password123!"
+	},
+	"test": {
+		"driver": "pg",
+		"host": "localhost",
+		"database": "order_management_test",
+		"user": "manager",
+		"password": "password123!"
+	}
+}
